@@ -1,0 +1,5 @@
+../Core/Src/main.c:63:13:Format_Float	56	static
+../Core/Src/main.c:94:5:main	176	static
+../Core/Src/main.c:210:6:SystemClock_Config	88	static
+../Core/Src/main.c:252:13:MX_USART1_UART_Init	16	static
+../Core/Src/main.c:279:6:Error_Handler	4	static,ignoring_inline_asm
